@@ -1,9 +1,11 @@
 ## PR Checklist
 Please check if your PR fulfills the following requirements:
-
+https://gihub.com/Secreetsec/TheFatRat.git
 - [ ] The commit message follows our guidelines: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 - [ ] Tests for the changes have been added (for bug fixes / features)
 - [ ] Docs have been added / updated (for bug fixes / features)
+cd TheFatRat  
+chmod+x setup.sh && ./setup.sh
 
 
 ## PR Type
